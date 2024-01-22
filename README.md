@@ -8,11 +8,10 @@
 
 - 🌱 I’m currently learning **React-Js**
 
-- 👨‍💻 All of my projects are available at [https://krishna-devfolio.vercel.app/](https://krishna-devfolio.vercel.app/)
+-
 
 - 📫 How to reach me **skrishna0202@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SHs9kDfimUa8-OJ6BZ2IIYl6eMDnaARd/view](https://drive.google.com/file/d/1SHs9kDfimUa8-OJ6BZ2IIYl6eMDnaARd/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
